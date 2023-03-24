@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 
 namespace Gofishing
 {
-// Token: 0x02000002 RID: 2
+// Token: 0x02000002 RID: 
 internal class Config
 {
 // Token: 0x17000001 RID: 1
