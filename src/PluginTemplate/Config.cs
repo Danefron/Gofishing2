@@ -14,8 +14,8 @@ public class CatchRewards
 {
     public CatchRewards [] Rewards
 { get; set; } = new
-CatchRewards [] { new
-CatchRewards () };
+CatchRewards[] { new
+CatchRewards() };
 };
 
 // Token: 0x06000003 RID: 3 RVA: 0x00002064 File Offset: 0x00000264
